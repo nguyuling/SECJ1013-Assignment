@@ -1,3 +1,5 @@
+// PHAVANEE KATRIYA PHON-AMNUAISUK A23CS0170
+// NGU YU LING A23CS0149
 #include <iostream>
 using namespace std;
 
