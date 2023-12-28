@@ -4,6 +4,13 @@
 #include <conio.h>
 using namespace std;
 
+/* This program allows users to:
+1. Add the title, author, and publication year of only one book
+2. Display the book added to the library
+3. Search the book by title from the library
+(Any attempt to add more than 1 book will cause the memory of the previous book added being overwritten)
+(Hence, version 2 of this program exists) */
+
 const int MAX_BOOKS = 1000;
 int choice;
 char title[MAX_BOOKS], author[MAX_BOOKS], year[MAX_BOOKS];
