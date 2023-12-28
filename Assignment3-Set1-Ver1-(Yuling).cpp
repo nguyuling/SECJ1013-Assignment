@@ -1,5 +1,11 @@
 // NGU YU LING A23CS0149
 // PHAVANEE KATRIYA PHON-AMNUAISUK A23CS0170
+
+/* This program allows users to:
+1. Add the title, author, and publication year of up to 100 books
+1. Display all the books added to the library
+3. Search a book by title from the library */
+
 #include <iostream>
 #include<cstring>
 #include<cstdlib>
